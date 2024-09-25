@@ -1,0 +1,38 @@
+h1 {
+    color: #b94c7c
+}
+
+#btn {
+    background-color: #7a3382;
+    align-content: center !important;
+}
+
+.h4 {
+    color: #7467d4;
+}
+
+.border-bottom {
+    border-bottom: 2px solid #7467d4 !important;
+}
+
+img {
+    width: 80px;
+    height: 80px;
+    ;
+}
+
+li {
+    display: inline-block;
+}
+
+.list-group {
+    margin-left: 260px !important;
+}
+
+#mensaje {
+    color: #b94c7c;
+    font-weight: 600;
+    font-style: italic;
+    font-size: x-large;
+    text-align: center;
+}
